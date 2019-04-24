@@ -1,3 +1,3 @@
 # countryroad
 This website is a statistic outcome of rural tourism.
-![image]<iframe src="https://plotdb.io/v/chart/21394" width="100%" height="600px" allowfullscreen="true" frameborder="0"></iframe>
+![image](https://github.com/s05410347/countryroad/blob/master/Pie%20Chart.png?raw=true)
